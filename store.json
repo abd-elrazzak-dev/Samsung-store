@@ -1,0 +1,187 @@
+{
+"Galaxy S26 Series": [
+{
+"id": "s26-1",
+"name": "Galaxy S26",
+"price": 9899,
+"desc": "Black | 256GB",
+"image": "image/s26.png",
+"in_stock": true
+},
+{
+"id": "s26-2",
+"name": "Galaxy S26 Plus",
+"price": 10199,
+"price_old": 11999,
+"desc": "Sky Blue | 256GB",
+"image": "image/s26p.png",
+"badge": "Sale -15%",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+},
+{
+"id": "s26-3",
+"name": "Galaxy S26 Ultra",
+"price": 17999,
+"price_old": 19999,
+"desc": "Cobalt Violet | 1TB",
+"image": "image/s26u.png",
+"badge": "Sale -10%",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+},
+{
+"id": "s26-4",
+"name": "Galaxy S26 Ultra",
+"price": 14999,
+"price_old": 16999,
+"desc": "Cobalt Violet | 512GB",
+"image": "image/s26u.png",
+"badge": "Bestseller",
+"badge_bg": "#8b5cf6",
+"badge_color": "#fff",
+"in_stock": true
+},
+{
+"id": "s26-5",
+"name": "Galaxy S26 FE",
+"price": 5599,
+"price_old": 5999,
+"desc": "Pistachio | 128GB",
+"image": "image/s26fe.png",
+"badge": "Sale -6.7%",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+}
+],
+"Galaxy S25 Series": [
+{
+"id": "s25-1",
+"name": "Galaxy S25",
+"price": 9599,
+"desc": "Silver Shadow | 256GB",
+"image": "image/s25.png",
+"in_stock": true
+},
+{
+"id": "s25-2",
+"name": "Galaxy S25 Plus",
+"price": 9899,
+"price_old": 10999,
+"desc": "Blue | 256GB",
+"image": "image/s25p.png",
+"badge": "Sale -10%",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+},
+{
+"id": "s25-3",
+"name": "Galaxy S25 Ultra",
+"price": 12999,
+"price_old": 13899,
+"desc": "Titanium Silver | 512GB",
+"image": "image/s25u.png",
+"badge": "Bestseller",
+"badge_bg": "#8b5cf6",
+"badge_color": "#fff",
+"in_stock": true
+},
+{
+"id": "s25-4",
+"name": "Galaxy S25 FE",
+"price": 5999,
+"desc": "Gray | 128GB",
+"image": "image/s25fe.png",
+"in_stock": true
+}
+],
+"BestSeller Mobile": [
+{
+"id": "bs-1",
+"name": "Galaxy S24 Ultra",
+"price": 10199,
+"desc": "Titanium Gray | 512GB",
+"image": "image/s24ultra.png",
+"badge": "Titanium",
+"badge_bg": "var(--accent-blue)",
+"badge_color": "#fff",
+"in_stock": true
+},
+{
+"id": "bs-2",
+"name": "Galaxy S23 Ultra",
+"price": 6099,
+"price_old": 6199,
+"desc": "Phantom Black | 256GB",
+"image": "image/s23ultra.png",
+"badge": "Sale -15%",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+},
+{
+"id": "bs-3",
+"name": "Galaxy A15 5G",
+"price": 1699,
+"desc": "Cobalt Violet | 256GB",
+"image": "image/a15.png",
+"badge": "Bestseller",
+"badge_bg": "#8b5cf6",
+"badge_color": "#fff",
+"in_stock": true
+},
+{
+"id": "bs-4",
+"name": "Galaxy A55 5G",
+"price": 4099,
+"desc": "Mint | 128GB",
+"image": "image/a55.png",
+"in_stock": true
+}
+],
+"Wearables & Audio": [
+{
+"id": "wa-1",
+"name": "Galaxy Watch 5",
+"price": 2099,
+"desc": "Silver | 40mm",
+"image": "image/w5.png",
+"is_round": true,
+"in_stock": true
+},
+{
+"id": "wa-2",
+"name": "Galaxy Watch 8",
+"price": 2999,
+"price_old": 3499,
+"desc": "Black | 44mm | BT",
+"image": "image/w8.png",
+"badge": "Save 500DH",
+"badge_bg": "#eab308",
+"badge_color": "#000",
+"in_stock": true
+},
+{
+"id": "wa-3",
+"name": "Galaxy Buds FE",
+"price": 899,
+"desc": "Wingtips | ANC",
+"image": "image/bfe.png",
+"in_stock": true
+},
+{
+"id": "wa-4",
+"name": "Galaxy Buds 3 Pro",
+"price": 2099,
+"desc": "Dual Drive | Ai | ip57",
+"image": "image/b3pro.png",
+"is_round": true,
+"in_stock": true
+}
+]
+}
+
